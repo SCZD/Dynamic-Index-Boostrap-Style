@@ -1,2 +1,2 @@
-# Dynamic-Index-Boostrap-Style
+# Dynamic-Index-Bootstrap-Style
 :P
